@@ -1,0 +1,24 @@
+{
+  "name": "apollo-glsl",
+  "version": "0.0.0",
+  "description": "Useful GLSL functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tomorrowevening@github.com/tomorrowevening/apollo-glsl.git"
+  },
+  "keywords": [
+    "GLSL",
+    "glslify",
+    "webgl"
+  ],
+  "author": "Colin Duffy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomorrowevening/apollo-glsl/issues"
+  },
+  "homepage": "https://github.com/tomorrowevening/apollo-glsl#readme"
+}

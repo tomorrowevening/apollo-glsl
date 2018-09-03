@@ -1,2 +1,2 @@
 # apollo-glsl
-Common GLSL
+Useful GLSL
