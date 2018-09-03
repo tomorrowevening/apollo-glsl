@@ -1,5 +1,5 @@
 {
-  "name": "apollo-glsl",
+  "name": "@tomorrowevening/apollo-glsl",
   "version": "0.0.0",
   "description": "Useful GLSL functions",
   "main": "index.js",
